@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-from .calc_func import calc
+from calc_func import calc
 
 try:
     link = "http://suninjuly.github.io/get_attribute.html"
