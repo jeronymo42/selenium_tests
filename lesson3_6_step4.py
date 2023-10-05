@@ -1,4 +1,5 @@
 from secrets import LOGIN, PASSWORD
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pytest
 import time
