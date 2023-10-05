@@ -1,0 +1,30 @@
+1696537975019	geckodriver	INFO	Listening on 127.0.0.1:62158
+1696537978065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelURwWY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696537978376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696537978447	Marionette	INFO	Listening on port 62166
+WebDriver BiDi listening on ws://127.0.0.1:62159
+Read port: 62166
+1696537978651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62159/devtools/browser/806ab423-5fe4-4f93-986e-a38f8a18fc63
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=febdc986af511f6f3c642170931a108acac2&rid=AhUfqIiUfXPNp7RfK-YZzVP0Qu0&reg=77&referer=http%3A%2F%2Fselenium1py.pythonanywhere.com%2Fru%2F, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1696537981855	Marionette	INFO	Stopped listening on port 62166
+Dynamically enable window occlusion 1
+1696538036935	geckodriver	INFO	Listening on 127.0.0.1:62302
+1696538039978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUw95w9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696538040290	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696538040356	Marionette	INFO	Listening on port 62310
+WebDriver BiDi listening on ws://127.0.0.1:62303
+Read port: 62310
+1696538040559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62303/devtools/browser/f3a17551-afe5-4363-a2dc-e2d2baad1e3c
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=febdc986af511f6f3c642170931a108acac2&rid=30uCxRXrXN4ySDkXqhWIegMZTWE&reg=77&referer=http%3A%2F%2Fselenium1py.pythonanywhere.com%2Fru%2F, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1696538043528	Marionette	INFO	Stopped listening on port 62310
+Dynamically enable window occlusion 1
